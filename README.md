@@ -19,7 +19,7 @@ A Power BI dashboard showing which children are most affected by anaemia in Nige
 ## Dashboard Preview
 ![The Pattern](Children_Anaemia_Dashboard%20.png)
 
-![The Gap](Children_Anaemia_Dashboard%202.png)
+![The Gap](Children_Anaemia_Dashboard2%202.png)
 
 ## Key Insights
 - **Severity:** Moderate 3,927 (56%), mild 2,754 (39%), severe 322 (5%). More than 6 in 10 cases are moderate or severe (61%).
