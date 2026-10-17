@@ -42,7 +42,7 @@ A Power BI dashboard showing which children are most affected by anaemia in Nige
 The data covers children with anaemia only, so the findings show who the cases are, not which groups have higher rates. The survey has no child age, so age and education describe the mother.
 
 ## Project Files
-- `Children_Anaemia_Dashboard%202.png` — The Pattern page of the dashboard.
+- `Children_Anaemia_Dashboard.png` — The Pattern page of the dashboard.
 - `Children_Anaemia_Dashboard 2.png` — The Gap page of the dashboard.
 - `Children_Anaemia_Presentation.pptx` — presentation of the findings.
 
